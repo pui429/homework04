@@ -2,7 +2,7 @@
 1.  Order.jsx
 
 - 과제 날짜 : 2024. 05. 20 - 2024. 05. 23
-- 주소 : 
+- 주소 : https://pui429.github.io/homework04/dist/
 - 기능구현 : ...
 - 컴포넌트구조<br/>
   ├── public<br/>
