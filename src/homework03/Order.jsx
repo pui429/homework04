@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./MegaOrder.scss";
+import "../assets/css/MegaOrder.scss";
 import OrderList from "./OrderList";
 import megaList from "../assets/api/megaList";
 import Shopping from "./Shopping";
